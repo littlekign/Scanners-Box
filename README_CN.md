@@ -92,6 +92,10 @@
 
 > [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=开源协议)
 
+- https://github.com/ASCIT31/Dark-Moon - **自主 AI 渗透测试引擎，持续对 Web、云、AD 和 Kubernetes 执行攻击面安全测试，运用智能体推理、真实漏洞利用执行和攻击路径分析提供基于证据的漏洞发现**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ASCIT31/Dark-Moon?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/ASCIT31/Dark-Moon?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/ASCIT31/Dark-Moon?style=flat-square&label=开源协议)
+
 
 ### LLM驱动的漏洞扫描器
 
@@ -149,7 +153,11 @@
 
 - https://github.com/anthropics/defending-code-reference-harness - **威胁建模、扫描、分类、修复一体化技能集，提供可自定义的自主扫描框架，实现端到端漏洞生命周期管理**
 
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anthropics/defending-code-reference-harness?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/defending-code-reference-harness?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/anthropics/defending-code-reference-harness.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/anthropics/defending-code-reference-harness?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Markdown-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anthropics/defending-code-reference-harness?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/defending-code-reference-harness?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/anthropics/defending-code-reference-harness.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/anthropics/defending-code-reference-harness?style=flat-square&label=开源协议)
+
+- https://github.com/cloudflare/security-audit-skill - **多阶段安全审计的编码 Agent 技能——侦察、狩猎、对抗性验证、报告生成、结构化输出与独立验证，产出机器可读的发现报告**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Markdown-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cloudflare/security-audit-skill?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/security-audit-skill?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/cloudflare/security-audit-skill?style=flat-square&label=开源协议)
 
 
 ### 智能合约漏洞扫描器

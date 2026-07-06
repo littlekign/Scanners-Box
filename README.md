@@ -95,6 +95,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ed1s0nZ/CyberStrikeAI?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ed1s0nZ/CyberStrikeAI?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=flat-square)
 
+- https://github.com/ASCIT31/Dark-Moon - **Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-based vulnerabilities.**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ASCIT31/Dark-Moon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ASCIT31/Dark-Moon?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ASCIT31/Dark-Moon?style=flat-square)
+
 
 ### LLM-Powered Vulnerability Scanners
 
@@ -152,7 +156,11 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 - https://github.com/anthropics/defending-code-reference-harness - **Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can customize for end-to-end vulnerability management**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anthropics/defending-code-reference-harness?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/defending-code-reference-harness?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/anthropics/defending-code-reference-harness.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anthropics/defending-code-reference-harness?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Markdown-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anthropics/defending-code-reference-harness?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/defending-code-reference-harness?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/anthropics/defending-code-reference-harness.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anthropics/defending-code-reference-harness?style=flat-square)
+
+- https://github.com/cloudflare/security-audit-skill - **A coding-agent skill for multi-phase security audits — recon, hunting, adversarial validation, reporting, structured output, and independent verification — with machine-readable findings**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Markdown-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cloudflare/security-audit-skill?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/security-audit-skill?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cloudflare/security-audit-skill?style=flat-square)
 
 
 ### Scanners for Smart Contracts
